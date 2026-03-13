@@ -21,7 +21,9 @@ public class CollectionsPractice {
                 }
             }
             System.out.println(a[i]+" is present "+k+" times");
+            if(k==1){
+                System.out.println(a[i]+" is a unique number");
+            }
         }
-        System.out.println("Program");
     }
 }
