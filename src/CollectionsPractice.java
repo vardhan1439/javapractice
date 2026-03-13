@@ -22,5 +22,6 @@ public class CollectionsPractice {
             }
             System.out.println(a[i]+" is present "+k+" times");
         }
+        System.out.println("Program");
     }
 }
